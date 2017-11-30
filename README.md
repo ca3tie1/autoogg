@@ -21,4 +21,3 @@ Author:Castiel
   7.若开启双向同步再启动目标端EXTRACT和DATAPUMP进程，观察进程是否有异常终止。  
   8.启动目标端的REPLICAT进程，测试从TARGET到SOURCE同步是否正常。
   9.在初始化装载过程中，备份源数据库之前请确保所有事务均已提交。
-
